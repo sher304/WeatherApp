@@ -1,5 +1,8 @@
 
 # Weather Application
+
+![Simulator Screen Shot - iPhone 13 Pro - 2022-06-06 at 23 02 25](https://user-images.githubusercontent.com/87121837/172212544-27075b3e-098d-4f66-859f-c4ab4f14cdaf.png)
+
 <h1 align="center">Welcome! This's my weather application.</h1>
 <h3 align="center">My application gets JSON from Rest Api.</h3>
 
@@ -17,5 +20,5 @@
 
 
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-06-06 at 23 02 25](https://user-images.githubusercontent.com/87121837/172212544-27075b3e-098d-4f66-859f-c4ab4f14cdaf.png)
+
 
